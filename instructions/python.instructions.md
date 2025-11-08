@@ -30,6 +30,11 @@ applyTo: '**/*.py'
 - Ensure lines do not exceed 79 characters.
 - Place function and class docstrings immediately after the `def` or `class` keyword.
 - Use blank lines to separate functions, classes, and code blocks where appropriate.
+- Follow the Google style guide recommendations for:
+    - [2.2 Imports](https://google.github.io/styleguide/pyguide.html#22-imports)
+    - [2.3 Packages](https://google.github.io/styleguide/pyguide.html#23-packages)
+    - [3.4.1 Trailing commas in sequences of items](https://google.github.io/styleguide/pyguide.html#341-trailing-commas-in-sequences-of-items)
+    - [3.8 Comments and Docstrings](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings)
 
 ## Edge Cases and Testing
 
