@@ -35,6 +35,7 @@ applyTo: '**/*.py'
     - [2.3 Packages](https://google.github.io/styleguide/pyguide.html#23-packages)
     - [3.4.1 Trailing commas in sequences of items](https://google.github.io/styleguide/pyguide.html#341-trailing-commas-in-sequences-of-items)
     - [3.8 Comments and Docstrings](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings)
+- Do not 
 
 ## Edge Cases and Testing
 
